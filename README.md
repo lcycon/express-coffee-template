@@ -4,6 +4,9 @@ This is my template that I have come to use over various internal projects at
 work.  It has been stripped down to its core and generalized in attempt to make
 it as broadly useful as possible.
 
+This template comes prebuilt with jQuery, Twitter Bootstrap, and Backbone.js
+included.
+
 ## Compiling
 
 All coffeescript needs to be compiled to JS before being executed.  In a
